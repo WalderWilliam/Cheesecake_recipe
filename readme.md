@@ -24,4 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://walderwilliam.github.io/Some_Projects/)
+- [Acesse o projeto finalizado, online](https://walderwilliam.github.io/Cheesecake_recipe/)
